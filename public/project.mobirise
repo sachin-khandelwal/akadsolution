@@ -58,6 +58,12 @@
         "name": "Candy Script Regular",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/Candy%20Script%20Regular/font.ttf"
+      },
+      {
+        "css": "'Candy Script Regular'",
+        "name": "Candy Script Regular",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Candy%20Script%20Regular/font.ttf"
       }
     ],
     "uniqCompNum": 42,
